@@ -45,7 +45,7 @@ limitations under the License.
 		<copy todir="compat">
 			<fileset dir="src/" />
 		</copy>
-		<replace dir="compat/" token="org.apache.commons.codec" value="org.apache.commons.codec.android" />
+		<replace dir="compat/" token="com.apache.commons.codec" value="com.apache.commons.codec.android" />
 		<move todir="compat/main/java/org/apache/commons/codec/android/">
 			<fileset dir="compat/main/java/org/apache/commons/codec/"/>
 		</move>
