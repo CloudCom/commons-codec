@@ -272,6 +272,8 @@ limitations under the License.
 			<include>com/apache/commons/codec/BinaryEncoder.class</include>
 			<include>com/apache/commons/codec/DecoderException.class</include>
 			<include>com/apache/commons/codec/EncoderException.class</include>
+			<include>com/apache/commons/codec/Encoder.class</include>
+			<include>com/apache/commons/codec/Decoder.class</include>
 			<include>com/apache/commons/codec/binary/StringUtils.class</include>
 			<include>com/apache/commons/codec/CharEncoding.class</include>
 			<include>com/apache/commons/codec/Charsets.class</include>
